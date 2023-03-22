@@ -1,0 +1,10 @@
+﻿  Criteria.cpp
+  MusicalApp.cpp
+  MusicalCollection.cpp
+  Playlist.cpp
+  Song.cpp
+  User.cpp
+  Generating Code...
+C:\Users\User\Desktop\Трети Курс\DS_2022\MusicalCollection\MusicalCollection\Song.cpp(45): warning C4715: 'Song::genreToString': not all control paths return a value
+C:\Users\User\Desktop\Трети Курс\DS_2022\MusicalCollection\MusicalCollection\Criteria.cpp(27): warning C4715: 'Criteria::checkType': not all control paths return a value
+  MusicalCollection.vcxproj -> C:\Users\User\Desktop\Трети Курс\DS_2022\MusicalCollection\x64\Debug\MusicalCollection.exe
